@@ -1,4 +1,4 @@
-# Virtual Memory and Cache Simulator
+# Virtual Memory & Cache Simulator
 
 Python simulator for exploring basic computer architecture concepts: virtual memory page mapping, set-associative cache behavior, cache hit/miss rates, miss types, and CPI-style timing effects.
 
