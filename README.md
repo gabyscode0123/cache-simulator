@@ -1,9 +1,3 @@
-# Virtual Memory & Cache Simulator
-
-Python simulator for exploring basic computer architecture concepts: virtual memory page mapping, set-associative cache behavior, cache hit/miss rates, miss types, and CPI-style timing effects.
-
-This project was originally built for a computer architecture course and has been cleaned up as a portfolio project. Course-provided trace files are not included, but a small synthetic trace is available in `examples/` so the project can run immediately.
-
 ## Highlights
 
 - Command-line milestone scripts plus an optional Streamlit dashboard.
